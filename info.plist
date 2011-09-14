@@ -4,6 +4,17 @@
 <dict>
 	<key>name</key>
 	<string>Steak</string>
+	<key>ordering</key>
+	<array>
+		<string>8DCF5209-015E-482B-9EBA-B501CF7BD904</string>
+		<string>04D99FB4-9392-4884-BDE2-D4003AF14F0E</string>
+		<string>2B3E635F-0285-4C29-B23B-324230012D6E</string>
+		<string>83D60597-DD20-492F-98B0-AD7C978AF7D8</string>
+		<string>47BC390E-4B2A-4645-A59A-D19672269029</string>
+		<string>40B4E57D-17BE-4619-BBF9-CD8FA4437256</string>
+		<string>549339C7-A675-44F6-8F3F-AF8CBD461700</string>
+		<string>6F912F26-0A7D-4771-91FE-E33A7D542033</string>
+	</array>
 	<key>uuid</key>
 	<string>527FD1E5-0D80-4646-B874-D5D0041735BD</string>
 </dict>
